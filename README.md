@@ -20,7 +20,7 @@
 ├── 01_Business_Logic/      # 业务逻辑与数据模型设计
 │   ├── 业务逻辑梳理.xmind     # 基于AARRR模型的用户路径与指标体系
 │   ├── 数据模型设计.xmind     # 事实表与维度表的星型拓扑架构梳理
-│   └── 数据字典.xlsx        # 埋点需求与数据库表结构定义
+│   └── 数据埋点与数据字典.pdf   # 埋点需求与数据库表结构定义
 ├── 02_Data_Generation/     # 数据模拟 (Python)
 │   └── Data_Simulation.ipynb # 利用Python(AI辅助)按业务逻辑生成2000名用户行为日志
 ├── 03_SQL_ETL/             # 数据清洗与建模 (MySQL)
